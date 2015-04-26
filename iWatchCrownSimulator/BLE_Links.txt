@@ -1,0 +1,25 @@
+http://www.raywenderlich.com/52080/introduction-core-bluetooth-building-heart-rate-monitor
+
+http://www.raywenderlich.com/73306/arduino-tutorial-integrating-bluetooth-le-and-ios
+
+http://www.verespej.com/2013/10/how-to-add-dial-to-your-arduino-project.html
+
+http://redbearlab.com/bleshield/
+
+https://github.com/RedBearLab/BLEShield/tree/master/Arduino/libraries/RBL_BLEShield/examples
+
+http://bigdanzblog.wordpress.com/2014/08/16/using-a-ky040-rotary-encoder-with-arduino/
+
+https://github.com/tupps/ArduinoControl/tree/master/ArduinoControl
+
+http://redbearlab.com/quick-start-codebender
+
+http://redbearlab.com/getting-started-bleshield
+
+https://github.com/RedBearLab/nRF8001/
+
+————————
+
+
+if([phase isEqualToString:@"ccPhysicsCollisionBegin"]){
+	//NSAssert(strcmp(returnType, @encode(BOOL)) == 0, @"CCPhysicsCollisionBegin delegate methods must return a BOOL.");
